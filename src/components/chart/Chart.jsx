@@ -1,10 +1,10 @@
 import React from 'react'
-import "./home.scss"
+import "./chart.scss"
 
 const Home = () => {
   return (
-    <div className='home'>
-      Home
+    <div className='chart'>
+      Chart
     </div>
   )
 }

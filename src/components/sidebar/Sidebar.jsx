@@ -1,10 +1,10 @@
 import React from 'react'
-import "./home.scss"
+import "./sidebar.scss"
 
 const Home = () => {
   return (
-    <div className='home'>
-      Home
+    <div className='sidebar'>
+      Sidebar
     </div>
   )
 }
