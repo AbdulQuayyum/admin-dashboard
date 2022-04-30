@@ -46,7 +46,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <img
-              src=""
+              src="https://alao-abdul-quayyum-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmypic.bc8be366.jpg&w=128&q=100"
               alt=""
               className="avatar"
             />
