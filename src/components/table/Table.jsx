@@ -1,7 +1,7 @@
 import React from 'react'
 import "./table.scss"
 
-const Home = () => {
+const Table = () => {
   return (
     <div className='table'>
       Table
@@ -9,4 +9,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Table

@@ -19,8 +19,7 @@ const Sidebar = () => {
   return (
     <div className="sidebar">
       <div className="top">
-          <img className="icon" src="assets\logo.png" alt="" width="25px" />
-          <span className="logo">Quayyum</span>
+          <span className="logo"><img className="icon" src="assets\logo.png" alt="" width="25px" /> Quayyum</span>
         
       </div>
       <hr />
