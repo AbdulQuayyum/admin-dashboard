@@ -3,13 +3,13 @@ export const userInputs = [
       id: 1,
       label: "Username",
       type: "text",
-      placeholder: "Random Name",
+      placeholder: "Amaru Shakur",
     },
     {
       id: 2,
       label: "Name and surname",
       type: "text",
-      placeholder: "Random Name",
+      placeholder: "Amaru Shakur",
     },
     {
       id: 3,
@@ -32,13 +32,13 @@ export const userInputs = [
       id: 6,
       label: "Address",
       type: "text",
-      placeholder: "12 street, somewhere",
+      placeholder: "12 Fakeland, Nowhere",
     },
     {
       id: 7,
       label: "Country",
       type: "text",
-      placeholder: "Place",
+      placeholder: "Nigeria",
     },
   ];
   
