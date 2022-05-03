@@ -45,7 +45,7 @@ export const userRows = [
     username: "Mahmud",
     img: "https://media.istockphoto.com/vectors/vector-businessman-black-silhouette-isolated-vector-id610003972?k=20&m=610003972&s=612x612&w=0&h=-Nftbu4sDVavoJTq5REPpPpV-kXH9hXXE3xg_D3ViKE=",
     status: "active",
-    email: "1snow@gmail.com",
+    email: "1fake@gmail.com",
     age: 35,
   },
   {
