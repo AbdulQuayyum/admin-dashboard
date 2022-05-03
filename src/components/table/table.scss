@@ -1,4 +1,10 @@
-.table {
+.table {  
+     
+      .tableCellHeader {
+        color: #808080;
+        font-weight: 600;
+      }
+
     .cellWrapper {
       display: flex;
       align-items: center;

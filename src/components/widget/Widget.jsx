@@ -9,7 +9,7 @@ const Widget = ({ type }) => {
   let data;
 
   //temporary
-  const amount = "10,000";
+  const amount = "100,000";
   const diff = 20;
 
   switch (type) {
