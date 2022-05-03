@@ -59,7 +59,7 @@ export const userRows = [
   {
     id: 3,
     username: "Marshall",
-    img: "https://media.istockphoto.com/vectors/vector-businessman-black-sil20&m=610003972&s=612x612&w=0&h=-Nftbu4sDVavoJTq5REPpPpV-kXH9hXXE3xg_D3ViKE=",
+    img: "https://media.istockphoto.com/vectors/vector-businessman-black-silhouette-isolated-vector-id610003972?k=20&m=610003972&s=612x612&w=0&h=-Nftbu4sDVavoJTq5REPpPpV-kXH9hXXE3xg_D3ViKE=",
     email: "3fake@gmail.com",
     status: "pending",
     age: 45,
