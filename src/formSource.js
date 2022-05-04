@@ -15,7 +15,7 @@ export const userInputs = [
       id: 3,
       label: "Email",
       type: "mail",
-      placeholder: "fake@gmail.com",
+      placeholder: "1fake@gmail.com",
     },
     {
       id: 4,
